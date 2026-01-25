@@ -1,1 +1,2 @@
-Following along with the CS50 Web Programming with Python course
+Following along the CS50 Web Programming with Python course...
+Just using this to track my own progress
