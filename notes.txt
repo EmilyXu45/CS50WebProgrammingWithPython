@@ -1,0 +1,4 @@
+git log: check all the commits that's been made
+         can give all the commit hashes
+git reset -- hard <commit hash>
+git reset -- hard origin/master (reset to the repo on Github)
