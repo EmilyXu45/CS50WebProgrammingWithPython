@@ -11,3 +11,5 @@ s.add(3)
 #No element ever appear more than once inside a set
 s.remove(2)
 print(s)
+
+print(f"The set has {len(s)} elements.")
