@@ -1,7 +1,6 @@
 #Classes are templates for a type of object
 class Point():
-    def __init__(self, x, y):
+    def __init__(self, input1, input2):
     # Magic method: self references the object that we are dealing with
-         self.x = x
-         self.y = y
-         
+         self.x = input1
+         self.y = input2
