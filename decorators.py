@@ -4,3 +4,8 @@ def announce(f):
         f()
         print("Done with the function,")
     return wrapper
+@announce
+def Hello():
+    print("Hello, world!")
+
+Hello()
